@@ -1,3 +1,3 @@
 # Napoli Software
 
-![napoli](./static/images/naples.png)
+![napoli](../static/images/naples.png)
